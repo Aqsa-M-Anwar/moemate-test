@@ -1,27 +1,25 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+about: This is meomate bug report.
+title: 'Toggle voice'
+labels: 'Bug'
+
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+Toggle voice button is missing.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Login your moemate account.
+2. Toggle button is not available.
+
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
-
+Toggle button should be on the right side of companion.
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+![toggle-voice](https://github.com/Aqsa-M-Anwar/moemate-test/assets/102157056/50c38b97-6d66-4f46-a4e7-00a8a2fafe5a)
 
 **Additional context**
-Add any other context about the problem here.
+User first priority is to speak to campanion, so there should be a toggle button instead of omni button.
